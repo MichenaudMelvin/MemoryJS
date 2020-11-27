@@ -1,0 +1,41 @@
+#titre{
+  font-size: 75px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#ligne_un{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 50px;
+}
+
+#ligne_deux{
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#carte{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte:hover{
+  background: grey;
+  color: #808080;
+}
+
+body{
+  text-align: center;
+}
