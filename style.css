@@ -23,7 +23,7 @@
   padding-right: 20%;
 }
 
-#carte{
+#carte0{
   display: flex;
   border: 2px solid black;
   background: black;
@@ -31,7 +31,72 @@
   border-radius: 5px;
 }
 
-#carte:hover{
+#carte1{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte2{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte3{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte4{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte5{
+  display: flex;
+  border: 2px solid black;
+  background: black;
+  font-size: 50px;
+  border-radius: 5px;
+}
+
+#carte0:hover{
+  background: grey;
+  color: #808080;
+}
+
+#carte1:hover{
+  background: grey;
+  color: #808080;
+}
+
+#carte2:hover{
+  background: grey;
+  color: #808080;
+}
+
+#carte3:hover{
+  background: grey;
+  color: #808080;
+}
+
+#carte4:hover{
+  background: grey;
+  color: #808080;
+}
+
+#carte5:hover{
   background: grey;
   color: #808080;
 }
